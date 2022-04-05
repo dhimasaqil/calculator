@@ -1,7 +1,7 @@
 .calculator {
   text-align: center;
   margin: 0 auto;
-  padding-top: 200px;
+  padding-top: 70px;
   width: 400px;
 }
 .calculator-screen {
@@ -29,6 +29,9 @@ button {
   color: #fff;
   width: 25%;
   outline: none;
+}
+.precentage {
+  background-color: gray !important;
 }
 .all-clear,
 .zero-btn {
