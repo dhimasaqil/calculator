@@ -33,6 +33,9 @@ button {
 .precentage {
   background-color: gray !important;
 }
+.precentage:hover {
+  background-color: darkgray !important;
+}
 .all-clear,
 .zero-btn {
   width: 50%;
